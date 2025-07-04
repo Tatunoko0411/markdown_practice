@@ -1,15 +1,19 @@
-#見出し
+# 自己紹介
+自己紹介のページです
 
-行末に半角スペースを二つ入れたら  
-改行されたよ
+## どんな人？
+2005年4月１１日生まれ（満２０歳）  
+趣味  :筋トレ ,ゲーム(LOL,BeatSaber)
 
-![画像が表示されないときのメッセージ：うさぎ写真](https://img.freepik.com/free-photo/easter-celebration-with-dreamy-bunny_23-2151246705.jpg?t=st=1721950879~exp=1721954479~hmac=ee8183c9ed2991c5fc1cff222c37bfa6ac06288f64b34c0d817ee7bdc477a730&w=996)
-
-![画像が表示されないときのメッセージ：うさぎ写真](https://jp.freepik.com/photos/%E3%81%86%E3%81%95%E3%81%8E)
+ちょっとした特技:クソくだらないネタ画像を作ること↓（直近でつっくたもの）
 
 ![チャ＝ウンスヨさん](https://raw.githubusercontent.com/Tatunoko0411/markdown_practice/refs/heads/main/image/%E3%83%81%E3%83%A3%EF%BC%9D%E3%82%A6%E3%83%B3%E3%82%B9%E3%83%A8.png)
 
 
-[グーグル](https://www.google.com/)
+### 使用技術
+![badge](https://img.shields.io/badge/C%23-blue?style=flat&logoColor=pink)
+![badge](https://img.shields.io/badge/unity-green?style=flat&logoColor=pink)
+![badge](https://img.shields.io/badge/php-8A2BE2?style=flat&logoColor=pink)
+![badge](https://img.shields.io/badge/JavaScript-red?style=flat&logoColor=pink)
+etc...
 
-![badge](https://img.shields.io/badge/i_like-rabbit-pink)
